@@ -10,5 +10,9 @@ p.todos{
  font-size: 4em;
 }
 .feature .glyphicon{
+<<<<<<< HEAD
   font-size: 35px;
+=======
+font-size: 32px;
+>>>>>>> 5aa26480b98c0bfeaeff7b9b5c9facabee7ab051
 }
